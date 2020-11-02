@@ -1,11 +1,13 @@
 # Assignments for Programming Fundamentals At Yrgo
 
 ## 11 - Unity Introduction
-wip, almost
+wip, almost, want to tweak some more
 
 ## 12 - Input & Movement
+Done
 
 ## 13 - Physics
+wip
 
 ## 14 - Art & Audio
 
@@ -14,3 +16,5 @@ https://github.com/DreamingJohnny/Disco-Fever.git
 Finished
 
 ## 16 - State Machines & Animation
+
+## 17 - 
